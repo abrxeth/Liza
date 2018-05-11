@@ -12,7 +12,9 @@ The First globally distributed, faux-BitcoinLiza (Liza) token that can be transf
 ----------
 
 
+
 [TOC]
+
 
 
 --------
