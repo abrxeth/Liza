@@ -115,6 +115,7 @@ Next open it, and on the right you will see:
 Liza is now added to your myetherwallet. You can see it by clicking on the main wallet's "Amount to Send" dropdown box. > (It will say "LIZA").
 
 
+-----
 
 © The BitcoinLiza (ERC20 version) Developers
 
