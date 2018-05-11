@@ -119,4 +119,6 @@ Liza is now added to your myetherwallet. You can see it by clicking on the main 
 
 © The BitcoinLiza (ERC20 version) Developers
 
+www.bitcoinliza.info
+
 
