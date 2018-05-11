@@ -13,14 +13,27 @@ The First globally distributed, faux-BitcoinLiza (Liza) token that can be transf
 
 
 
-[TOC]
+<p><div class="toc">
+<ul>
+<li><a href="#1.0">1.0 Smart Contract</a></li>
+<li><a href="#update">UPDATE: Project shelved!</a></li>
+<li><a href="#contract-details">Contract Details</a></li>
+<li><a href="#total-tokens">Total Tokens</a></li>
+<li><a href="#getting-lizago-for-now">Getting LizaGo (for now)</a></li>
+<li><a href="#adding-lizago-to-myetherwallet">Adding LizaGo to myetherwallet</a></li>
+<li><a href="#note-well-on-gas">Note Well on Gas</a></li>
+<li><a href="#road-map">Road Map</a></li>
+</ul>
+</div>
+</p>
+
 
 
 
 --------
 
 
-1.0 Smart Contract
+#1.0 Smart Contract
 -------------
 
 [0x1E1281aCDee9766531e65A0a5E3365c51Fd41223](https://etherscan.io/address/0x1e1281acdee9766531e65a0a5e3365c51fd41223#readContract)
