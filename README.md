@@ -31,7 +31,7 @@ Click about and you can see the source code, too. Or just click the link below.
 
 [Source Code Etherscan](https://etherscan.io/address/0x1e1281acdee9766531e65a0a5e3365c51fd41223#code)
 
-[Source Code Github](https://etherscan.io/address/0x1e1281acdee9766531e65a0a5e3365c51fd41223#code)
+[Source Code Github](https://github.com/abrxeth/Liza/blob/master/bitcoinliza.sol)
 
 
 
