@@ -15,7 +15,7 @@ The First globally distributed, faux-BitcoinLiza (Liza) token that can be transf
 
 
 
-# 1.0 Smart Contract
+1.0 Smart Contract
 -------------
 
 [0x1E1281aCDee9766531e65A0a5E3365c51Fd41223](https://etherscan.io/address/0x1e1281acdee9766531e65a0a5e3365c51fd41223#readContract)
