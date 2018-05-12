@@ -9,6 +9,8 @@ The First globally distributed, faux-BitcoinLiza (Liza) token that can be transf
 
 **No invest box included.**
 
+Buy at [EtherDelta Exchange Extraordinaire](https://etherdelta.com/#0x1e1281acdee9766531e65a0a5e3365c51fd41223-ETH)
+
 ----------
 
 
