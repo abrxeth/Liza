@@ -70,7 +70,7 @@ Liza     | Total
 
 To own Liza, simply send the desired amount of ETH to the address below.
 
-> 0xCc82AA390D5467F53CB91AAa799a9A6bc898CC59
+> 0xCc9311E9a24Cf82172c8152F7fa1420fad758F73
 
 
 **Please note:**
